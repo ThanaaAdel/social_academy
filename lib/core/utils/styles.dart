@@ -26,6 +26,12 @@ abstract class Styles {
     fontSize: 16,
     fontWeight: FontWeight.w500,
   );
+
+
 }
 
 const TextStyle textStyle = TextStyle();
+const TextStyle bntText = TextStyle(
+  color: black,
+  fontWeight: FontWeight.w500,
+);

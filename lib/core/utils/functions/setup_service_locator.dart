@@ -1,6 +1,5 @@
 // import 'package:dio/dio.dart';
 // import 'package:get_it/get_it.dart';
-// import 'package:social_academy/Features/home/data/repos/home_repo_impl.dart';
 // import 'package:social_academy/features/Splash/data/datasources/language_local_data_source.dart';
 // import 'package:social_academy/features/Splash/data/datasources/language_local_data_source_impl.dart';
 // import 'package:social_academy/features/Splash/data/repositories/language_repository_impl.dart';
@@ -9,8 +8,6 @@
 // import 'package:social_academy/features/Splash/domain/usecases/get_saved_lang_use_case.dart';
 // import 'package:social_academy/features/Splash/presentation/manger/locale_cubit/locale_cubit.dart';
 // import 'package:social_academy/features/bottom_nav/presentation/cubit/bottom_nav_cubit.dart';
-// import 'package:social_academy/features/home/data/data_sources/home_local_data_source.dart';
-// import 'package:social_academy/features/home/data/data_sources/home_remote_data_source.dart';
 // import '../api_service.dart';
 // import 'package:shared_preferences/shared_preferences.dart';
 //

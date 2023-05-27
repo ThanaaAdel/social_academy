@@ -2,7 +2,7 @@
 // import 'package:flutter/material.dart';
 // import 'package:social_academy/core/utils/constants.dart';
 // import 'package:social_academy/features/bottom_nav/presentation/screens/bottom_nav.dart';
-// import 'package:social_academy/features/langauge/presentation/views/language_screen.dart';
+// import 'package:social_academy/features/langauge/presentation/screens/language_screen.dart';
 //
 //
 //

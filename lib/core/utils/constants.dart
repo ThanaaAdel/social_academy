@@ -43,6 +43,10 @@ const Color kSecondaryColor = Color.fromARGB(255, 218, 216, 216);
 const Color kTextColor = Color(0xff7a7a7a);
 const Color kOutPutContainerTextColor = Color(0xffABABAC);
 const Color kTextColor2 = Colors.black;
+const Color black = Color(0xFF191555);
+const Color white = Color(0xFFFFFFFF);
+const Color bgColor = Color(0xFF4448FF);
+// const Color selectColor = Color(0xFF4B3FFF);
 
 const kTranstionDuration = Duration(milliseconds: 250);
 const kGtSectraFine = 'GT Sectra Fine';

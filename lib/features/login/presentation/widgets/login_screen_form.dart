@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:social_academy/core/utils/constants.dart';
 import 'package:social_academy/core/utils/gaps.dart';
 import 'package:social_academy/core/widgets/custom_login_text_field.dart';
+import 'package:social_academy/features/navigation_bar/presentation/views/home_page.dart';
 import '../../../../../core/widgets/custom_button.dart';
 
 
@@ -61,7 +62,11 @@ class _LoginViewFormState extends State<LoginViewForm> {
           buttonText:"login"
           ,
           buttonTapHandler: () {
-            Navigator.pushNamed(context, kVerificationScreen);
+
+            Navigator.push(context,
+                MaterialPageRoute(builder: (context) {
+                  return const HomeScreen();
+                }));
           },
           screenWidth: MediaQuery.of(context).size.width * .45,
         ),

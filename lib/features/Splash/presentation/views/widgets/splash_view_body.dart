@@ -2,8 +2,6 @@ import 'dart:async';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/material.dart';
 import 'package:animate_do/animate_do.dart';
-import 'package:social_academy/features/home_screen/presentation/views/home.dart';
-import 'package:social_academy/features/langauge/presentation/screens/language_screen.dart';
 import 'package:social_academy/features/login/presentation/login_screen.dart';
 import '../../../../../core/utils/constants.dart';
 
